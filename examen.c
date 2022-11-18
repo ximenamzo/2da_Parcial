@@ -1,3 +1,11 @@
+/* Universidad de Colima
+ * Facultad de Ingeniería Electromecánica
+ * Ingeniería en Software, Tercer Semestre
+ * Ximena Manzo Castrejón
+ * Exámen seguda parcial
+ * Nov.18
+ * */
+
 #include<stdio.h>
 #include<stdlib.h>
 
