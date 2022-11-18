@@ -53,3 +53,25 @@ void main(){
   imprimir(list, n);
   printf("\n\n");
 }
+
+/* S A L I D A   D E L   P R O G R A M A :
+ *
+ * Ingresa el tamaño del array: 10
+ * Valor 1: 32
+ * Valor 2: 76
+ * Valor 3: 45
+ * Valor 4: 92
+ * Valor 5: 13
+ * Valor 6: 2
+ * Valor 7: 65
+ * Valor 8: 8
+ * Valor 9: 90
+ * Valor 10: 27
+ *
+ * Los valores desordenados son: 32, 76, 45, 92, 13, 2, 65, 8, 90, 27
+ *
+ * Ordenando...
+ *
+ * Los valores YA ordenados son: 2, 8, 13, 27, 32, 45, 65, 76, 90, 92
+ *
+ * */
